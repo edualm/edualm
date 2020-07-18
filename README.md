@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm Eduardo Almeida, a software engineer based in Porto, Portugal.
+
+My current focus is on 📱 iOS development, and I'm currently part of the team that makes the Trainline app.
+
+As for OSS, I dabble in random stuff from time to time, but I am currently maintaining [FruityRazer](https://github.com/FruityRazer), open-source drivers for Razer peripherals on 🍎 macOS.
+
+💬 To reach me, please use the form [here](https://eduardo.engineer/contact/)!
+
 <!--
 **edualm/edualm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
