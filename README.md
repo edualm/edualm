@@ -10,8 +10,6 @@ As for OSS (which is probably what you're here about!), I dabble in random stuff
 
 💬 To reach me, please use the form [here](https://eduardo.engineer/contact/)!
 
-![✍️ Favorite Programming Language?](https://media.giphy.com/media/28XVGIraFzKKI/source.gif)
-
 <!--
 **edualm/edualm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
