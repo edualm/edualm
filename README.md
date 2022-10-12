@@ -2,7 +2,7 @@
 
 I'm Eduardo Almeida, a software engineer based in Porto, Portugal.
 
-My current focus is on 📱 iOS development, and I'm currently part of the team that makes the [Trainline](https://trainline.com) app for iOS.
+My current focus is on 📱 mobile development, and I'm currently part of the platform team for [Juni](https://juni.co) 🚀.
 
 I also publish iOS/macOS apps under [Bitten Apps](https://bitten.app).
 
