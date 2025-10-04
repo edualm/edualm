@@ -2,7 +2,7 @@
 
 I'm Eduardo Almeida, a software engineer based in 🇵🇹 Porto, Portugal.
 
-My focus is on 📱 mobile development, and I'm currently creating the mobile app for the financial platform for e-commerce: [Juni](https://juni.co) 🚀!
+My focus is on 📱 mobile development, and I'm currently creating the mobile app for the future of business banking, [Juni](https://juni.co)!
 
 I also publish apps for 🍎 Apple platforms under the name [Bitten Apps](https://bittenapps.com).
 
